@@ -1,7 +1,7 @@
 ## Menu
 
- - #### [How to use badges?](#How to use badges?)
-- #### [Skills Badges](#Skills Badges)
+-    ####     [How to use badges?](#How to use badges?)
+-    ####     [Skills Badges](#Skills Badges)
 
 ## How to use badges?
 
@@ -16,8 +16,7 @@
 | ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)|`https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6`|
 | ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)|`https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker`|
 | ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)|`https://img.shields.io/badge/-Express-333333?style=flat&logo=express`|
-|
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)|`https://img.shields.io/badge/-Git-333333?style=flat&logo=git`|
+|![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)|`https://img.shields.io/badge/-Git-333333?style=flat&logo=git`|
 |![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF)|`https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF`|
 |![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)|`https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5`|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)|`https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript`|
