@@ -1,7 +1,7 @@
 ## Menu
 
--    ####     [How to use badges?](#How to use badges?)
--    ####     [Skills Badges](#Skills Badges)
+- #### [How to use badges?](#How to use badges?)
+- #### [Skills Badges](#Skills Badges)
 
 ## How to use badges?
 
