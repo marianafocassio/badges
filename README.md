@@ -1,13 +1,18 @@
 ## Menu
 
-- [How to use badges?](#How%20to%20use%20badges?)
-- [Skills Badges](#Skills%20badges)
+- [How to use badges?](#anchor1)
+- [Skills Badges](#anchor2)
+
+
+<a id="anchor1"></a>
 
 ## How to use badges?
 
  **1.** Create the image in your document .md using `![image](BadgeURLHere)` ou `<img src="BadgeURLHere" />`
  
  **2.** Copy the desired URL and paste where it says  `BadgeURLHere`
+
+<a id="anchor2"></a>
 
 ## Skills Badges
 |Badge| URL |
